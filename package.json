@@ -1,0 +1,19 @@
+{
+  "name": "react-router-play-around",
+  "version": "1.0.0",
+  "description": "a repo to play around the react router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinYingWeiYeh/React-Router-Play-Around.git"
+  },
+  "author": "Kevin Yeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KevinYingWeiYeh/React-Router-Play-Around/issues"
+  },
+  "homepage": "https://github.com/KevinYingWeiYeh/React-Router-Play-Around#readme"
+}
