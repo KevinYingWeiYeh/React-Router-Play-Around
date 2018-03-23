@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KevinYingWeiYeh/React-Router-Play-Around/issues"
   },
-  "homepage": "https://github.com/KevinYingWeiYeh/React-Router-Play-Around#readme"
+  "homepage": "https://github.com/KevinYingWeiYeh/React-Router-Play-Around#readme",
+  "dependencies": {
+    "react-router-dom": "^4.2.2"
+  }
 }
